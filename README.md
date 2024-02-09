@@ -1,15 +1,15 @@
 ![](Media/star-wars-obi-wan-kenobi.gif)
 
-### ✨*Welcome to my page*✨
+### ✨**Welcome to my page**✨
 I'm Andrea Oleandro, a Concept Art student at TheSign Accademy.
 
 I'm a Non-Binary person and use They/Them pronouns.
 
-How to reach me:
-
-[@roletheduck](https://twitter.com/Roletheduck) on what once was Twitter (X)
-
-[@roletheduck](https://www.instagram.com/roletheduck/) on Instagram
+How to reach me: *will be updated*
+| Nickname | Platform |
+|:---:|:----:|
+|[@roletheduck](https://twitter.com/Roletheduck) | What once was Twitter (X)|
+|[@roletheduck](https://www.instagram.com/roletheduck/) | Instagram |
 <!--
 **AndreaOleandro/AndreaOleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
