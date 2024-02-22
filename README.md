@@ -1,9 +1,11 @@
 ![](Media/star-wars-obi-wan-kenobi.gif)
 
 ### ✨**Welcome to my page**✨
-I'm Andrea Oleandro, a Concept Art student at TheSign Academy.
-
-I'm a Non-Binary person and use They/Them pronouns.
+*I'm Andrea Oleandro*  
+  
+☆ Non-Binary Concept Artist (They/Them/She/Her)  
+☆ Will learn any new skill for the fun of it  
+☆ Neurospicy  
 
 How to reach me: *will be updated*
 | Nickname | Platform |
